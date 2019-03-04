@@ -1,0 +1,20 @@
+{
+  "name": "poemforyou",
+  "version": "1.0.0",
+  "description": "a project to share poem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CaryCZ",
+  "license": "ISC",
+  "dependencies": {
+    "config-lite": "^2.1.0",
+    "express": "^4.16.4",
+    "express-formidable": "^1.2.0",
+    "jsonwebtoken": "^8.4.0",
+    "log4js": "^4.0.2",
+    "mysql": "^2.16.0",
+    "uuid": "^3.3.2"
+  }
+}
